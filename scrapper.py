@@ -35,3 +35,22 @@ def scrape_books(url):
             
     
 scrape_books(URL)
+
+
+
+
+# install git
+# create reprository in github
+# go to gitbash
+# git config --global user.name "Bibek kandel"
+# git config --global user.email "bibekkandeell@gmail.com"
+
+# git init
+# git status =>if you want to check what are the status of Files
+# git diff => if you want to check what are change
+
+
+# git add. => track files and folder
+# git commit -m "your message"
+# git push => upload changes to github
+# copy paste git code from github
