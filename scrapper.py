@@ -1,7 +1,9 @@
+import json
 import requests
+
 from bs4 import BeautifulSoup
 
-import json
+
 
 URL = "http://books.toscrape.com/"
 
@@ -49,6 +51,8 @@ scrape_books(URL)
 # git status =>if you want to check what are the status of Files
 # git diff => if you want to check what are change
 
+#git checkout -b feature_bib1
+# git push --set-upstream origin feature_bib1 => to make branch on github
 
 # git add. => track files and folder
 # git commit -m "your message"
